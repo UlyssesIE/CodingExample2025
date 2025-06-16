@@ -1,0 +1,2055 @@
+
+Wed Dec 25 05:37:15 2024
+ehome_smart_qaa_total
+userid:123
+question:登录app，但收不到验证码
+highest question登录APP，但收不到验证码
+highest score49.071026
+##########################
+Wed Dec 25 05:42:05 2024
+ehome_smart_qaa_total
+userid:123
+question:登录app，但收不到验证码
+highest question登录APP，但收不到验证码
+highest score49.071026
+##########################
+Wed Dec 25 05:52:46 2024
+ehome_smart_qaa_hr
+userid:115
+question:婚假
+highest question 如何享受婚假
+highest score 4.9374943
+##########################
+Wed Dec 25 05:53:21 2024
+ehome_smart_qaa_hr
+userid:115
+question:如何享受哺乳假
+highest question 如何享受哺乳假
+highest score 11.557888
+##########################
+Wed Dec 25 05:54:03 2024
+ehome_smart_qaa_hr
+userid:115
+question:婚假
+highest question 如何享受婚假
+highest score 4.7876806
+##########################
+Wed Dec 25 05:54:06 2024
+ehome_smart_qaa_hr
+userid:115
+question:如何享受哺乳假
+highest question 如何享受哺乳假
+highest score 11.071257
+##########################
+Wed Dec 25 05:54:10 2024
+ehome_smart_qaa_hr
+userid:115
+question:如何享受哺乳假
+highest question 如何享受哺乳假
+highest score 10.875664
+##########################
+Wed Dec 25 05:54:27 2024
+ehome_smart_qaa_hr
+userid:115
+question:如何享受哺乳假
+highest question 如何享受哺乳假
+highest score 10.704317
+##########################
+Wed Dec 25 05:55:03 2024
+ehome_smart_qaa_hr
+userid:115
+question:婚假
+highest question 如何享受婚假
+highest score 4.609846
+##########################
+Wed Dec 25 05:59:51 2024
+ehome_smart_qaa_hr
+userid:108191
+question:婚嫁
+highest question 如何享受婚假
+highest score 3.5218616
+##########################
+Wed Dec 25 06:00:00 2024
+ehome_smart_qaa_hr
+userid:115
+question:婚假
+highest question 如何享受婚假
+highest score 4.5586247
+##########################
+Wed Dec 25 06:00:29 2024
+ehome_smart_qaa_hr
+userid:115
+question:婚假
+highest question 如何享受婚假
+highest score 4.534432
+##########################
+Wed Dec 25 06:00:35 2024
+ehome_smart_qaa_hr
+userid:108191
+question:婚嫁
+highest question 如何享受婚假
+highest score 3.5877826
+##########################
+Wed Dec 25 06:00:56 2024
+ehome_smart_qaa_hr
+userid:115
+question:如何享受婚假
+highest question 如何享受婚假
+highest score 6.9662056
+##########################
+Wed Dec 25 06:01:12 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受婚嫁
+highest question 如何享受婚假
+highest score 6.0066276
+##########################
+Wed Dec 25 06:43:07 2024
+ehome_smart_qaa_total
+userid:115
+question:年假
+highest question 如何享受年假
+highest score 14.595366
+##########################
+Wed Dec 25 06:46:34 2024
+ehome_smart_qaa_total
+userid:115
+question:如何享受育儿假
+highest question 如何享受育儿假
+highest score 47.649357
+##########################
+Wed Dec 25 06:46:45 2024
+ehome_smart_qaa_total
+userid:115
+question:婚假
+highest question 如何享受婚假
+highest score 17.994652
+##########################
+Wed Dec 25 06:46:57 2024
+ehome_smart_qaa_total
+userid:115
+question:享受婚假
+highest question 如何享受婚假
+highest score 32.390705
+##########################
+Wed Dec 25 06:47:07 2024
+ehome_smart_qaa_total
+userid:115
+question:如何享受育儿假
+highest question 如何享受育儿假
+highest score 47.647514
+##########################
+Wed Dec 25 06:47:51 2024
+ehome_smart_qaa_hr
+userid:115
+question:享受婚假
+highest question 如何享受婚假
+highest score 6.587031
+##########################
+Wed Dec 25 06:48:00 2024
+ehome_smart_qaa_hr
+userid:115
+question:如何享受哺乳假
+highest question 如何享受哺乳假
+highest score 10.314485
+##########################
+Wed Dec 25 06:48:06 2024
+ehome_smart_qaa_hr
+userid:115
+question:如何享受哺乳假
+highest question 如何享受哺乳假
+highest score 10.197426
+##########################
+Wed Dec 25 06:48:35 2024
+ehome_smart_qaa_hr
+userid:115
+question:如何享受年假
+highest question 如何享受年假
+highest score 4.5654993
+##########################
+Wed Dec 25 06:49:35 2024
+ehome_smart_qaa_hr
+userid:108191
+question:开通OA
+highest question 如何开通OA账号？
+highest score 8.814128
+##########################
+Wed Dec 25 06:49:51 2024
+ehome_smart_qaa_hr
+userid:108191
+question:开通OA账号
+highest question 如何开通OA账号？
+highest score 14.666811
+##########################
+Wed Dec 25 06:55:29 2024
+ehome_smart_qaa_total
+userid:108191
+question:股票代码
+highest question Q：B股股票代码是什么？
+highest score 15.870826
+##########################
+Wed Dec 25 06:55:32 2024
+ehome_smart_qaa_total
+userid:108191
+question:股票代码如何分类的？
+highest question Q：股票代码如何分类的？
+highest score 27.84884
+##########################
+Wed Dec 25 06:55:42 2024
+ehome_smart_qaa_total
+userid:108191
+question:股票代码如何分类的？
+highest question Q：股票代码如何分类的？
+highest score 27.848436
+##########################
+Wed Dec 25 06:55:51 2024
+ehome_smart_qaa_total
+userid:108191
+question:股票代码如何分类的？
+highest question Q：股票代码如何分类的？
+highest score 27.848036
+##########################
+Wed Dec 25 06:59:02 2024
+ehome_smart_qaa_total
+userid:108191
+question:股票代码
+highest question Q：B股股票代码是什么？
+highest score 15.713931
+##########################
+Wed Dec 25 06:59:11 2024
+ehome_smart_qaa_total
+userid:108191
+question:北交所股票代码是怎样的？
+highest question Q：北交所股票代码是怎样的？
+highest score 37.94263
+##########################
+Wed Dec 25 06:59:17 2024
+ehome_smart_qaa_total
+userid:108191
+question:北交所股票代码是怎样的？
+highest question Q：北交所股票代码是怎样的？
+highest score 37.942837
+##########################
+Wed Dec 25 06:59:30 2024
+ehome_smart_qaa_total
+userid:108191
+question:北交所股票代码是怎样的？
+highest question Q：北交所股票代码是怎样的？
+highest score 37.94304
+##########################
+Wed Dec 25 06:59:42 2024
+ehome_smart_qaa_total
+userid:108191
+question:北交所股票代码是怎样的？
+highest question Q：北交所股票代码是怎样的？
+highest score 37.943245
+##########################
+Wed Dec 25 07:24:13 2024
+ehome_smart_qaa_total
+userid:108191
+question:如何下载
+highest question Q：电脑软件如何下载？
+highest score 17.392538
+##########################
+Wed Dec 25 07:24:21 2024
+ehome_smart_qaa_total
+userid:108191
+question:申财有道如何下载？
+highest question Q：申财有道如何下载？
+highest score 34.83728
+##########################
+Wed Dec 25 07:24:39 2024
+ehome_smart_qaa_total
+userid:108191
+question:申财有道如何下载？
+highest question Q：申财有道如何下载？
+highest score 34.8368
+##########################
+Wed Dec 25 07:24:52 2024
+ehome_smart_qaa_total
+userid:108191
+question:申财有道如何下载？
+highest question Q：申财有道如何下载？
+highest score 34.836315
+##########################
+Wed Dec 25 07:25:01 2024
+ehome_smart_qaa_total
+userid:108191
+question:申财有道如何下载？
+highest question Q：申财有道如何下载？
+highest score 34.849976
+##########################
+Wed Dec 25 07:25:02 2024
+ehome_smart_qaa_total
+userid:108191
+question:2023/11/22申财有道是否可以通过应用市场下载？
+highest question Q：2023/11/22申财有道是否可以通过应用市场下载？
+highest score 65.426216
+##########################
+Wed Dec 25 07:25:05 2024
+ehome_smart_qaa_total
+userid:108191
+question:申财有道如何下载？
+highest question Q：申财有道如何下载？
+highest score 34.83535
+##########################
+Wed Dec 25 07:25:10 2024
+ehome_smart_qaa_total
+userid:108191
+question:申财有道如何下载？
+highest question Q：申财有道如何下载？
+highest score 34.83487
+##########################
+Wed Dec 25 07:26:35 2024
+ehome_smart_qaa_total
+userid:108191
+question:申财有道如何下载？
+highest question Q：申财有道如何下载？
+highest score 34.83439
+##########################
+Wed Dec 25 07:26:48 2024
+ehome_smart_qaa_total
+userid:108191
+question:如何下载
+highest question Q：电脑软件如何下载？
+highest score 17.409023
+##########################
+Wed Dec 25 07:26:53 2024
+ehome_smart_qaa_total
+userid:108191
+question:申财有道如何下载？
+highest question Q：申财有道如何下载？
+highest score 34.849613
+##########################
+Wed Dec 25 07:26:58 2024
+ehome_smart_qaa_total
+userid:108191
+question:申财有道如何下载？
+highest question Q：申财有道如何下载？
+highest score 34.849117
+##########################
+Wed Dec 25 07:27:37 2024
+ehome_smart_qaa_total
+userid:108191
+question:如何下载
+highest question Q：电脑软件如何下载？
+highest score 17.406502
+##########################
+Wed Dec 25 07:27:42 2024
+ehome_smart_qaa_total
+userid:108191
+question:申财有道如何下载？
+highest question Q：申财有道如何下载？
+highest score 34.848137
+##########################
+Wed Dec 25 07:28:07 2024
+ehome_smart_qaa_hr
+userid:108191
+question:年假
+highest question 如何享受年假
+highest score 2.1939359
+##########################
+Wed Dec 25 07:28:33 2024
+ehome_smart_qaa_hr
+userid:108191
+question:享受年假
+highest question 如何享受年假
+highest score 4.222342
+##########################
+Wed Dec 25 07:28:53 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受年假
+highest question 如何享受年假
+highest score 4.768609
+##########################
+Wed Dec 25 07:29:08 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受婚假
+highest question 如何享受婚假
+highest score 7.083828
+##########################
+Wed Dec 25 07:29:16 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受年假
+highest question 如何享受年假
+highest score 4.3795586
+##########################
+Wed Dec 25 07:30:51 2024
+ehome_smart_qaa_po
+userid:108191
+question:部门A
+highest question 部门A问题
+highest score 10.810998
+##########################
+Wed Dec 25 07:37:49 2024
+ehome_smart_qaa_po
+userid:108191
+question:部门A
+highest question 部门A问题
+highest score 10.940593
+##########################
+Wed Dec 25 07:42:45 2024
+ehome_smart_qaa_po
+userid:108191
+question:党支部书记空缺时可以召开讨论接收预备党员的支部大会吗？
+highest question 党支部书记空缺时可以召开讨论接收预备党员的支部大会吗？
+highest score 44.44365
+##########################
+Wed Dec 25 07:42:45 2024
+ehome_smart_qaa_po
+userid:108191
+question:党支部书记空缺时可以召开讨论接收预备党员的支部大会吗？
+highest question 党支部书记空缺时可以召开讨论接收预备党员的支部大会吗？
+highest score 44.44365
+##########################
+Wed Dec 25 07:43:07 2024
+ehome_smart_qaa_hr
+userid:108191
+question:年假
+highest question 如何享受年假
+highest score 2.1939359
+##########################
+Wed Dec 25 07:43:22 2024
+ehome_smart_qaa_hr
+userid:108191
+question:享受年假
+highest question 如何享受年假
+highest score 4.222342
+##########################
+Wed Dec 25 07:43:36 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受年假
+highest question 如何享受年假
+highest score 4.768609
+##########################
+Wed Dec 25 07:44:02 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受婚假
+highest question 如何享受婚假
+highest score 7.083828
+##########################
+Wed Dec 25 07:44:07 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受年假
+highest question 如何享受年假
+highest score 4.3795586
+##########################
+Wed Dec 25 08:43:51 2024
+ehome_smart_qaa_po
+userid:115
+question:部门a
+highest question 部门A问题
+highest score 10.940593
+##########################
+Wed Dec 25 08:43:59 2024
+ehome_smart_qaa_po
+userid:115
+question:部门A问题
+highest question 部门A问题
+highest score 17.453243
+##########################
+Wed Dec 25 08:44:05 2024
+ehome_smart_qaa_po
+userid:115
+question:部门A问题
+highest question 部门A问题
+highest score 17.663109
+##########################
+Wed Dec 25 08:44:09 2024
+ehome_smart_qaa_po
+userid:115
+question:运营中心测试问题1
+highest question Q:运营中心测试问题1
+highest score 26.375252
+##########################
+Wed Dec 25 08:44:14 2024
+ehome_smart_qaa_po
+userid:115
+question:支部大会表决申请人入党问题时，本人要不要退出会场？
+highest question 支部大会表决申请人入党问题时，本人要不要退出会场？
+highest score 46.498714
+##########################
+Wed Dec 25 08:44:19 2024
+ehome_smart_qaa_po
+userid:115
+question:部门A问题
+highest question 部门A问题
+highest score 18.257648
+##########################
+Wed Dec 25 08:44:24 2024
+ehome_smart_qaa_po
+userid:115
+question:运营中心测试问题1
+highest question Q:运营中心测试问题1
+highest score 27.267647
+##########################
+Wed Dec 25 08:44:30 2024
+ehome_smart_qaa_po
+userid:115
+question:运营中心测试问题1
+highest question Q:运营中心测试问题1
+highest score 27.54959
+##########################
+Wed Dec 25 08:50:25 2024
+ehome_smart_qaa_app
+userid:200635
+question:下载安装
+highest question 申万宏源e家APP怎么下载安装
+highest score 10.07592
+##########################
+Wed Dec 25 08:50:31 2024
+ehome_smart_qaa_app
+userid:200635
+question:申万宏源e家APP怎么下载安装
+highest question 申万宏源e家APP怎么下载安装
+highest score 22.319532
+##########################
+Wed Dec 25 08:50:34 2024
+ehome_smart_qaa_app
+userid:200635
+question:申万宏源e家APP怎么下载安装？
+highest question 申万宏源e家APP怎么下载安装
+highest score 22.319532
+##########################
+Wed Dec 25 08:51:13 2024
+ehome_smart_qaa_po
+userid:200635
+question:运营中心测试问题1
+highest question Q:运营中心测试问题1
+highest score 25.736908
+##########################
+Wed Dec 25 08:51:28 2024
+ehome_smart_qaa_po
+userid:200635
+question:运营中心测试问题1
+highest question Q:运营中心测试问题1
+highest score 25.736908
+##########################
+Wed Dec 25 08:51:33 2024
+ehome_smart_qaa_po
+userid:200635
+question:运营中心测试问题1
+highest question Q:运营中心测试问题1
+highest score 26.060759
+##########################
+Wed Dec 25 08:51:38 2024
+ehome_smart_qaa_po
+userid:200635
+question:运营中心测试问题1
+highest question Q:运营中心测试问题1
+highest score 26.375252
+##########################
+Wed Dec 25 08:51:43 2024
+ehome_smart_qaa_po
+userid:200635
+question:运营中心测试问题1
+highest question Q:运营中心测试问题1
+highest score 26.680908
+##########################
+Wed Dec 25 08:51:50 2024
+ehome_smart_qaa_po
+userid:200635
+question:运营中心测试问题1
+highest question Q:运营中心测试问题1
+highest score 26.978228
+##########################
+Wed Dec 25 08:54:07 2024
+ehome_smart_qaa_app
+userid:200635
+question:华为用户无法登陆
+highest question 华为用户无法登录、访问APP
+highest score 11.164749
+##########################
+Wed Dec 25 08:54:19 2024
+ehome_smart_qaa_app
+userid:200635
+question:华为用户无法登陆
+highest question 华为用户无法登录、访问APP
+highest score 11.278682
+##########################
+Wed Dec 25 08:54:23 2024
+ehome_smart_qaa_app
+userid:200635
+question:华为用户无法登陆
+highest question 华为用户无法登录、访问APP
+highest score 11.384092
+##########################
+Wed Dec 25 08:54:27 2024
+ehome_smart_qaa_app
+userid:200635
+question:华为用户无法登陆
+highest question 华为用户无法登录、访问APP
+highest score 11.497506
+##########################
+Wed Dec 25 08:54:32 2024
+ehome_smart_qaa_app
+userid:200635
+question:华为用户无法登陆
+highest question 华为用户无法登录、访问APP
+highest score 11.601882
+##########################
+Wed Dec 25 08:54:36 2024
+ehome_smart_qaa_app
+userid:200635
+question:华为用户无法登陆
+highest question 华为用户无法登录、访问APP
+highest score 11.713644
+##########################
+Wed Dec 25 08:54:41 2024
+ehome_smart_qaa_app
+userid:200635
+question:华为用户无法登陆
+highest question 华为用户无法登录、访问APP
+highest score 11.816134
+##########################
+Wed Dec 25 08:55:19 2024
+ehome_smart_qaa_total
+userid:123
+question:如何在app请假
+highest question 如何在申万宏源e家APP请假
+highest score 27.244846
+##########################
+Wed Dec 25 08:55:38 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 21.756866
+##########################
+Wed Dec 25 08:55:56 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 21.832685
+##########################
+Wed Dec 25 08:56:00 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 21.921349
+##########################
+Wed Dec 25 08:56:04 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 21.999084
+##########################
+Wed Dec 25 08:56:09 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 22.088802
+##########################
+Wed Dec 25 08:56:13 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 22.167389
+##########################
+Wed Dec 25 08:56:17 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 22.25731
+##########################
+Wed Dec 25 08:56:21 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 22.336027
+##########################
+Wed Dec 25 08:56:34 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 22.425571
+##########################
+Wed Dec 25 08:56:38 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 22.50393
+##########################
+Wed Dec 25 08:56:42 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 22.592709
+##########################
+Wed Dec 25 08:56:46 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 22.680937
+##########################
+Wed Dec 25 08:56:50 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 22.75812
+##########################
+Wed Dec 25 08:56:54 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 22.845219
+##########################
+Wed Dec 25 08:58:13 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 21.16696
+##########################
+Wed Dec 25 08:58:17 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 21.247662
+##########################
+Wed Dec 25 08:58:21 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 21.319405
+##########################
+Wed Dec 25 08:58:28 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 21.398617
+##########################
+Wed Dec 25 08:59:10 2024
+ehome_smart_qaa_total
+userid:123
+question:如何在app请假
+highest question 如何在申万宏源e家APP请假
+highest score 27.244846
+##########################
+Wed Dec 25 08:59:24 2024
+ehome_smart_qaa_total
+userid:123
+question:如何享受年假
+highest question 如何享受年假
+highest score 34.367775
+##########################
+Wed Dec 25 09:00:39 2024
+ehome_smart_qaa_hr
+userid:108191
+question:年假
+highest question 如何享受年假
+highest score 2.1754284
+##########################
+Wed Dec 25 09:00:44 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受年假
+highest question 如何享受年假
+highest score 4.8542356
+##########################
+Wed Dec 25 09:00:47 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受哺乳假
+highest question 如何享受哺乳假
+highest score 10.09284
+##########################
+Wed Dec 25 09:00:50 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受育儿假
+highest question 如何享受育儿假
+highest score 9.999052
+##########################
+Wed Dec 25 09:00:53 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受哺乳假
+highest question 如何享受哺乳假
+highest score 9.914681
+##########################
+Wed Dec 25 09:00:57 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受育儿假
+highest question 如何享受育儿假
+highest score 9.83857
+##########################
+Wed Dec 25 09:00:59 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受哺乳假
+highest question 如何享受哺乳假
+highest score 9.769745
+##########################
+Wed Dec 25 09:01:36 2024
+ehome_smart_qaa_po
+userid:108191
+question:部门A
+highest question 部门A问题
+highest score 11.043015
+##########################
+Wed Dec 25 09:01:38 2024
+ehome_smart_qaa_po
+userid:108191
+question:党支部书记空缺时可以召开讨论接收预备党员的支部大会吗？
+highest question 党支部书记空缺时可以召开讨论接收预备党员的支部大会吗？
+highest score 44.69435
+##########################
+Wed Dec 25 09:01:44 2024
+ehome_smart_qaa_po
+userid:108191
+question:党支部正式党员减少到不足三人，可以讨论接收预备党员吗？
+highest question 党支部正式党员减少到不足三人，可以讨论接收预备党员吗？
+highest score 43.27561
+##########################
+Wed Dec 25 09:02:14 2024
+ehome_smart_qaa_total
+userid:123
+question:如何请假
+highest question 如何在申万宏源e家APP请假
+highest score 16.879227
+##########################
+Wed Dec 25 09:02:52 2024
+ehome_smart_qaa_hr
+userid:108191
+question:年假
+highest question 如何享受年假
+highest score 1.6884048
+##########################
+Wed Dec 25 09:03:09 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受育儿假
+highest question 如何享受育儿假
+highest score 10.59467
+##########################
+Wed Dec 25 09:03:13 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受哺乳假
+highest question 如何享受哺乳假
+highest score 10.446055
+##########################
+Wed Dec 25 09:03:15 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受育儿假
+highest question 如何享受育儿假
+highest score 10.314485
+##########################
+Wed Dec 25 09:03:18 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受哺乳假
+highest question 如何享受哺乳假
+highest score 10.314485
+##########################
+Wed Dec 25 09:03:21 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受育儿假
+highest question 如何享受育儿假
+highest score 10.314485
+##########################
+Wed Dec 25 09:03:23 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受哺乳假
+highest question 如何享受哺乳假
+highest score 9.999052
+##########################
+Wed Dec 25 09:03:25 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受育儿假
+highest question 如何享受育儿假
+highest score 9.914681
+##########################
+Wed Dec 25 09:03:28 2024
+ehome_smart_qaa_hr
+userid:108191
+question:如何享受哺乳假
+highest question 如何享受哺乳假
+highest score 9.83857
+##########################
+Wed Dec 25 09:07:47 2024
+ehome_smart_qaa_app
+userid:200635
+question:员工APP下载二维码
+highest question 员工APP下载二维码
+highest score 21.469
+##########################
+Thu Dec 26 05:09:57 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片
+highest question 图片布局
+highest score 16.908401
+##########################
+Thu Dec 26 05:10:05 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片展示功能验证
+highest question 图片展示功能验证
+highest score 43.117878
+##########################
+Thu Dec 26 05:10:20 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片
+highest question 图片布局
+highest score 16.908401
+##########################
+Thu Dec 26 05:10:25 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片展示功能验证
+highest question 图片展示功能验证
+highest score 43.117878
+##########################
+Fri Dec 27 00:56:01 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片展示
+highest question 图片展示功能验证
+highest score 24.092606
+##########################
+Fri Dec 27 00:56:12 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片展示
+highest question 图片展示功能验证
+highest score 23.995373
+##########################
+Fri Dec 27 01:44:08 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片展示
+highest question 图片展示功能验证
+highest score 24.095154
+##########################
+Fri Dec 27 01:44:13 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片、在线文档展示功能验证推送功能
+highest question 图片、在线文档展示功能验证推送功能
+highest score 80.23477
+##########################
+Fri Dec 27 01:44:17 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片展示功能验证
+highest question 图片展示功能验证
+highest score 43.11688
+##########################
+Fri Dec 27 01:44:20 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片、在线文档展示功能验证推送功能
+highest question 图片、在线文档展示功能验证推送功能
+highest score 80.23477
+##########################
+Fri Dec 27 01:44:22 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片展示功能验证
+highest question 图片展示功能验证
+highest score 43.11688
+##########################
+Fri Dec 27 01:44:25 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片、在线文档展示功能验证推送功能
+highest question 图片、在线文档展示功能验证推送功能
+highest score 80.23477
+##########################
+Fri Dec 27 01:44:28 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片展示功能验证
+highest question 图片展示功能验证
+highest score 43.11688
+##########################
+Fri Dec 27 01:44:31 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片、在线文档展示功能验证推送功能
+highest question 图片、在线文档展示功能验证推送功能
+highest score 80.23477
+##########################
+Fri Dec 27 01:44:34 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片展示功能验证
+highest question 图片展示功能验证
+highest score 43.11688
+##########################
+Fri Dec 27 01:44:37 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片、在线文档展示功能验证推送功能
+highest question 图片、在线文档展示功能验证推送功能
+highest score 80.23477
+##########################
+Fri Dec 27 01:44:40 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片展示功能验证
+highest question 图片展示功能验证
+highest score 43.11688
+##########################
+Fri Dec 27 01:44:43 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片、在线文档展示功能验证推送功能
+highest question 图片、在线文档展示功能验证推送功能
+highest score 80.23477
+##########################
+Fri Dec 27 01:44:46 2024
+ehome_smart_qaa_total
+userid:200635
+question:图片展示功能验证
+highest question 图片展示功能验证
+highest score 43.11688
+##########################
+Fri Dec 27 06:01:23 2024
+ehome_smart_qaa_total
+userid:115
+question:企业年金
+highest question 试用期员工是否享受企业年金
+highest score 15.310649
+##########################
+Fri Dec 27 06:01:36 2024
+ehome_smart_qaa_total
+userid:115
+question:企业年金
+highest question 试用期员工是否享受企业年金
+highest score 15.310649
+##########################
+Mon Jan 13 08:00:51 2025
+ehome_smart_qaa_total
+userid:011284
+question:哈哈
+highest question Q：哈尔滨长江路[2212]地址和联系电话？
+highest score 16.160366
+##########################
+Tue Jan 14 09:11:28 2025
+ehome_smart_qaa_total
+userid:200635
+question:股票
+highest question 股票
+highest score 7.0875278
+##########################
+Mon Jan 20 09:25:21 2025
+ehome_smart_qaa_total
+userid:115
+question:啊品牌
+highest question Q：股票停牌能否操作担保品划转？
+highest score 8.866747
+##########################
+Mon Jan 20 09:43:23 2025
+ehome_smart_qaa_total
+userid:200635
+question:人力资源
+highest question Q:北京人力(600861)的投资评级
+highest score 10.64368
+##########################
+Mon Jan 20 09:43:59 2025
+ehome_smart_qaa_total
+userid:200635
+question:北京人力
+highest question Q:北京人力(600861)的公司概况
+highest score 18.747904
+##########################
+Mon Jan 20 09:44:35 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金
+highest question Q：公墓基金和养老金基金的区别？
+highest score 7.6578574
+##########################
+Fri Jan 24 05:22:37 2025
+ehome_smart_qaa_total
+userid:5410065
+question:调试
+highest question 测试测试测试
+highest score 8.3611145
+##########################
+Fri Jan 24 05:23:11 2025
+ehome_smart_qaa_total
+userid:000194
+question:调试
+highest question 测试测试测试
+highest score 8.3612385
+##########################
+Fri Jan 24 05:25:42 2025
+ehome_smart_qaa_total
+userid:000194
+question:密码
+highest question Q：交易密码及资金密码修改菜单？
+highest score 12.194439
+##########################
+Fri Jan 24 05:25:55 2025
+ehome_smart_qaa_total
+userid:5410065
+question:密码
+highest question Q：交易密码及资金密码修改菜单？
+highest score 12.194642
+##########################
+Fri Jan 24 05:26:14 2025
+ehome_smart_qaa_total
+userid:5410065
+question:密码
+highest question Q：交易密码及资金密码修改菜单？
+highest score 12.194845
+##########################
+Fri Jan 24 05:35:17 2025
+ehome_smart_qaa_cs
+userid:115
+question:密码
+highest question Q：交易密码及资金密码修改菜单？
+highest score 12.5317955
+##########################
+Fri Jan 24 05:35:43 2025
+ehome_smart_qaa_total
+userid:115
+question:密码
+highest question Q：交易密码及资金密码修改菜单？
+highest score 12.194082
+##########################
+Fri Jan 24 05:36:20 2025
+ehome_smart_qaa_total
+userid:115
+question:E家密码
+highest question 申万宏源e家APP账号密码是什么
+highest score 20.074837
+##########################
+Fri Jan 24 05:36:36 2025
+ehome_smart_qaa_total
+userid:5410065
+question:ejia
+highest question None
+highest score None
+##########################
+Fri Jan 24 05:36:46 2025
+ehome_smart_qaa_total
+userid:5410065
+question:E家密码
+highest question 申万宏源e家APP账号密码是什么
+highest score 20.075462
+##########################
+Fri Jan 24 05:37:06 2025
+ehome_smart_qaa_total
+userid:5410065
+question:E家密码
+highest question 申万宏源e家APP账号密码是什么
+highest score 20.075773
+##########################
+Fri Jan 24 05:37:44 2025
+ehome_smart_qaa_cs
+userid:115
+question:E家密码
+highest question Q：交易密码及资金密码修改菜单？
+highest score 12.5317955
+##########################
+Fri Jan 24 06:01:06 2025
+ehome_smart_qaa_app
+userid:5410065
+question:E
+highest question 申万宏源e家APP怎么下载安装
+highest score 1.0252737
+##########################
+Fri Jan 24 06:01:19 2025
+ehome_smart_qaa_app
+userid:5410065
+question:E家密码
+highest question 申万宏源e家APP账号密码是什么
+highest score 5.1394987
+##########################
+Fri Jan 24 06:02:23 2025
+ehome_smart_qaa_app
+userid:115
+question:E家密码
+highest question 申万宏源e家APP账号密码是什么
+highest score 5.1483035
+##########################
+Fri Jan 24 06:11:01 2025
+ehome_smart_qaa_app
+userid:5410065
+question:图片布局
+highest question 图片布局
+highest score 15.096108
+##########################
+Fri Jan 24 06:11:19 2025
+ehome_smart_qaa_app
+userid:5410065
+question:图片布局
+highest question 图片布局
+highest score 15.096108
+##########################
+Fri Jan 24 06:13:51 2025
+ehome_smart_qaa_total
+userid:5410065
+question:E家密码
+highest question 申万宏源e家APP账号密码是什么
+highest score 20.07454
+##########################
+Fri Jan 24 06:14:19 2025
+ehome_smart_qaa_total
+userid:115
+question:E家密码
+highest question 申万宏源e家APP账号密码是什么
+highest score 20.07485
+##########################
+Fri Jan 24 06:19:55 2025
+ehome_smart_qaa_cs
+userid:5410065
+question:E家密码
+highest question Q：交易密码及资金密码修改菜单？
+highest score 12.5317955
+##########################
+Fri Jan 24 06:20:33 2025
+ehome_smart_qaa_cs
+userid:115
+question:E家密码
+highest question Q：交易密码及资金密码修改菜单？
+highest score 12.5317955
+##########################
+Fri Jan 24 06:54:50 2025
+ehome_smart_qaa_cs
+userid:115
+question:E家密码
+highest question Q：交易密码及资金密码修改菜单？
+highest score 12.5317955
+##########################
+Fri Jan 24 06:55:24 2025
+ehome_smart_qaa_cs
+userid:115
+question:E家密码
+highest question Q：交易密码及资金密码修改菜单？
+highest score 12.5317955
+##########################
+Fri Jan 24 06:56:00 2025
+ehome_smart_qaa_total
+userid:115
+question:E家密码
+highest question 申万宏源e家APP账号密码是什么
+highest score 20.07436
+##########################
+Fri Jan 24 06:57:32 2025
+ehome_smart_qaa_total
+userid:5410065
+question:E家密码
+highest question 申万宏源e家APP账号密码是什么
+highest score 20.074673
+##########################
+Fri Jan 24 06:57:49 2025
+ehome_smart_qaa_cs
+userid:5410065
+question:E家密码
+highest question Q：交易密码及资金密码修改菜单？
+highest score 12.5317955
+##########################
+Fri Jan 24 06:57:53 2025
+ehome_smart_qaa_cs
+userid:5410065
+question:交易密码及资金密码修改菜单？
+highest question Q：交易密码及资金密码修改菜单？
+highest score 56.66581
+##########################
+Mon Feb 10 09:31:29 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金
+highest question Q：公墓基金和养老金基金的区别？
+highest score 7.653434
+##########################
+Mon Feb 10 09:31:43 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金
+highest question Q：公墓基金和养老金基金的区别？
+highest score 7.646008
+##########################
+Mon Feb 10 09:33:46 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金从业
+highest question Q：基金份额从其他机构场外转入我司营业部场外如何操作？
+highest score 10.629385
+##########################
+Mon Feb 10 09:39:18 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金从业证书
+highest question 证券从业在哪里登记
+highest score 12.133373
+##########################
+Mon Feb 10 09:41:36 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金从业证书哪里登记
+highest question 证券从业在哪里登记
+highest score 32.91564
+##########################
+covered, ask back
+Wed Feb 12 03:10:01 2025
+ehome_smart_qaa_total
+userid:123
+question:如何请假
+highest question 如何在申万宏源e家APP请假
+highest score 15.962235
+##########################
+covered, ask back
+Wed Feb 12 07:01:42 2025
+ehome_smart_qaa_total
+userid:123
+question:婚假
+highest question 如何享受婚假
+highest score 15.800634
+##########################
+covered, ask back
+Thu Feb 13 07:26:33 2025
+ehome_smart_qaa_total
+userid:123
+question:婚假
+highest question 如何享受婚假
+highest score 15.800634
+##########################
+covered, ask back
+Thu Feb 13 07:27:55 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金
+highest question Q：公墓基金和养老金基金的区别？
+highest score 7.653434
+##########################
+Thu Feb 13 07:28:38 2025
+ehome_smart_qaa_app
+userid:200635
+question:基金
+highest question None
+highest score None
+##########################
+covered, ask back
+Thu Feb 13 07:29:57 2025
+ehome_smart_qaa_total
+userid:115
+question:基金
+highest question Q：公墓基金和养老金基金的区别？
+highest score 7.653434
+##########################
+Thu Feb 13 07:30:10 2025
+ehome_smart_qaa_total
+userid:115
+question:基金从业证书哪里登记
+highest question 证券从业在哪里登记
+highest score 32.91536
+##########################
+covered, ask back
+Mon Feb 17 14:57:10 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金
+highest question Q：公墓基金和养老金基金的区别？
+highest score 7.662371
+##########################
+Mon Feb 17 14:57:19 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金从业证书哪里登记
+highest question 证券从业在哪里登记
+highest score 32.534897
+##########################
+covered, ask back
+Tue Feb 18 14:57:37 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金
+highest question Q：公墓基金和养老金基金的区别？
+highest score 7.661833
+##########################
+Tue Feb 18 14:57:47 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金从业证书哪里登记
+highest question 证券从业在哪里登记
+highest score 32.532494
+##########################
+covered, ask back
+Tue Feb 18 18:57:58 2025
+ehome_smart_qaa_total
+userid:115
+question:基金
+highest question Q：公墓基金和养老金基金的区别？
+highest score 7.661833
+##########################
+Tue Feb 18 18:58:08 2025
+ehome_smart_qaa_total
+userid:115
+question:基金从业证书哪里登记
+highest question 证券从业在哪里登记
+highest score 32.532494
+##########################
+covered, ask back
+Wed Feb 19 03:10:25 2025
+ehome_smart_qaa_total
+userid:123
+question:婚假
+highest question 如何享受婚假
+highest score 17.180649
+##########################
+covered, ask back
+Wed Feb 19 06:05:03 2025
+ehome_smart_qaa_total
+userid:123
+question:婚假
+highest question 如何享受婚假
+highest score 17.180649
+##########################
+covered, ask back
+Wed Feb 19 06:06:46 2025
+ehome_smart_qaa_total
+userid:123
+question:婚假
+highest question 如何享受婚假
+highest score 17.180649
+##########################
+Wed Feb 19 06:07:11 2025
+ehome_smart_qaa_total
+userid:123
+question:怎么请婚假
+highest question 如何享受婚假
+highest score 17.180649
+##########################
+covered, ask back
+Wed Feb 19 06:07:36 2025
+ehome_smart_qaa_total
+userid:123
+question:怎么请假
+highest question Q：客户申请VIP席位怎么操作？
+highest score 12.1870365
+##########################
+covered, ask back
+Wed Feb 19 06:07:48 2025
+ehome_smart_qaa_total
+userid:123
+question:怎么才能请假
+highest question Q：客户申请VIP席位怎么操作？
+highest score 12.1870365
+##########################
+Wed Feb 19 06:08:04 2025
+ehome_smart_qaa_total
+userid:123
+question:怎么才能用手机请假
+highest question Q：双卡手机无法激活手机软件怎么办？
+highest score 16.421312
+##########################
+covered, ask back
+Wed Feb 19 06:13:44 2025
+ehome_smart_qaa_total
+userid:12345
+question:什么是利率债
+highest question Q：什么是票面息率、票面利率？
+highest score 17.663315
+##########################
+covered, ask back
+Wed Feb 19 06:14:43 2025
+ehome_smart_qaa_total
+userid:12345
+question:条件单业务怎么办理
+highest question Q：智能条件单业务办理操作步骤？
+highest score 22.27463
+##########################
+covered, ask back
+Wed Feb 19 06:16:51 2025
+ehome_smart_qaa_total
+userid:12345
+question:条件单业务怎么办理
+highest question Q：智能条件单业务办理操作步骤？
+highest score 22.27463
+##########################
+covered, ask back
+Wed Feb 19 06:17:13 2025
+ehome_smart_qaa_total
+userid:12345
+question:智能条件单业务办理操作步骤
+highest question Q：智能条件单业务办理操作步骤？
+highest score 48.150364
+##########################
+Wed Feb 19 06:17:34 2025
+ehome_smart_qaa_total
+userid:12345
+question:请告诉我智能条件单业务办理操作步骤
+highest question Q：智能条件单业务办理操作步骤？
+highest score 48.150364
+##########################
+covered, ask back
+Wed Feb 19 07:18:40 2025
+ehome_smart_qaa_total
+userid:12345
+question:请假
+highest question 如何在申万宏源e家APP请假
+highest score 11.807348
+##########################
+covered, ask back
+Wed Feb 19 07:18:56 2025
+ehome_smart_qaa_total
+userid:12345
+question:婚假
+highest question 如何享受婚假
+highest score 17.180649
+##########################
+covered, ask back
+Wed Feb 19 07:20:35 2025
+ehome_smart_qaa_total
+userid:12345
+question:什么是利率债
+highest question Q：什么是票面息率、票面利率？
+highest score 17.663315
+##########################
+covered, ask back
+Wed Feb 19 07:20:48 2025
+ehome_smart_qaa_total
+userid:12345
+question:利率债
+highest question Q:利率债的利率债
+highest score 17.636446
+##########################
+covered, ask back
+Wed Feb 19 07:21:05 2025
+ehome_smart_qaa_total
+userid:12345
+question:利率债的利率债观点
+highest question Q:利率债的利率债观点
+highest score 47.82297
+##########################
+Wed Feb 19 07:21:36 2025
+ehome_smart_qaa_total
+userid:12345
+question:请告诉我怎么买条件单
+highest question Q：什么是智能条件单的涨/跌停板买卖触发方式？
+highest score 15.47624
+##########################
+Wed Feb 19 07:21:58 2025
+ehome_smart_qaa_total
+userid:12345
+question:请告诉我怎么办理条件单
+highest question Q：智能条件单业务办理操作步骤？
+highest score 17.533974
+##########################
+covered, ask back
+Wed Feb 19 14:57:56 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金
+highest question Q：公墓基金和养老金基金的区别？
+highest score 7.661833
+##########################
+Wed Feb 19 14:58:11 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金从业证书哪里登记
+highest question 证券从业在哪里登记
+highest score 32.532494
+##########################
+covered, ask back
+Wed Feb 19 18:52:16 2025
+ehome_smart_qaa_total
+userid:115
+question:基金
+highest question Q：公墓基金和养老金基金的区别？
+highest score 7.661833
+##########################
+Wed Feb 19 18:52:32 2025
+ehome_smart_qaa_total
+userid:115
+question:基金从业证书哪里登记
+highest question 证券从业在哪里登记
+highest score 32.532494
+##########################
+covered, ask back
+Wed Feb 19 18:57:18 2025
+ehome_smart_qaa_total
+userid:115
+question:基金
+highest question Q：公墓基金和养老金基金的区别？
+highest score 7.6612945
+##########################
+Wed Feb 19 18:57:35 2025
+ehome_smart_qaa_total
+userid:115
+question:基金从业证书哪里登记
+highest question 证券从业在哪里登记
+highest score 32.53433
+##########################
+covered, ask back
+Thu Feb 20 07:42:50 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金
+highest question Q：公墓基金和养老金基金的区别？
+highest score 7.661833
+##########################
+Thu Feb 20 07:43:05 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金从业证书哪里登记
+highest question 证券从业在哪里登记
+highest score 32.532494
+##########################
+covered, ask back
+Thu Feb 20 07:46:53 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金
+highest question Q：公墓基金和养老金基金的区别？
+highest score 7.6612945
+##########################
+Thu Feb 20 07:47:13 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金从业证书哪里登记
+highest question 证券从业在哪里登记
+highest score 32.531933
+##########################
+Thu Feb 20 08:13:13 2025
+ehome_smart_qaa_total
+userid:200635
+question:证券从业资格登记
+highest question 证券从业在哪里登记
+highest score 24.89646
+##########################
+covered, ask back
+Thu Feb 20 08:14:52 2025
+ehome_smart_qaa_total
+userid:200635
+question:如何申请证券从业登记
+highest question 如何申请证券从业登记
+highest score 37.78392
+##########################
+covered, ask back
+Thu Feb 20 08:32:52 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金
+highest question Q：公墓基金和养老金基金的区别？
+highest score 7.661833
+##########################
+Thu Feb 20 08:33:10 2025
+ehome_smart_qaa_total
+userid:200635
+question:证券从业证书哪里登记
+highest question 证券从业在哪里登记
+highest score 38.239388
+##########################
+covered, ask back
+Thu Feb 20 08:37:21 2025
+ehome_smart_qaa_total
+userid:115
+question:基金
+highest question Q：公墓基金和养老金基金的区别？
+highest score 7.6612945
+##########################
+Thu Feb 20 08:37:38 2025
+ehome_smart_qaa_total
+userid:115
+question:基金从业证书哪里登记
+highest question 证券从业在哪里登记
+highest score 32.531933
+##########################
+covered, ask back
+Thu Feb 20 08:42:25 2025
+ehome_smart_qaa_total
+userid:115
+question:基金
+highest question Q：公墓基金和养老金基金的区别？
+highest score 7.660219
+##########################
+Thu Feb 20 08:42:43 2025
+ehome_smart_qaa_total
+userid:115
+question:基金从业证书哪里登记
+highest question 证券从业在哪里登记
+highest score 32.531387
+##########################
+covered, ask back
+Thu Feb 20 14:58:14 2025
+ehome_smart_qaa_total
+userid:200635
+question:基金
+highest question Q：公墓基金和养老金基金的区别？
+highest score 7.661833
+##########################
+Thu Feb 20 14:58:30 2025
+ehome_smart_qaa_total
+userid:200635
+question:证券从业证书哪里登记
+highest question 证券从业在哪里登记
+highest score 38.239388
+##########################
+covered, ask back
+Thu Feb 20 18:58:27 2025
+ehome_smart_qaa_total
+userid:115
+question:基金
+highest question Q：公墓基金和养老金基金的区别？
+highest score 7.661833
+##########################
+Thu Feb 20 18:58:43 2025
+ehome_smart_qaa_total
+userid:115
+question:证券从业证书哪里登记
+highest question 证券从业在哪里登记
+highest score 38.239388
+##########################
+Fri Feb 21 01:10:41 2025
+ehome_smart_qaa_cs
+userid:201255
+question:你好
+highest question Q：什么是好友、看好股市者？
+highest score 8.299275
+##########################
+Fri Feb 21 01:11:22 2025
+ehome_smart_qaa_total
+userid:201255
+question:？
+highest question None
+highest score None
+##########################
+covered, ask back
+Fri Feb 21 01:12:49 2025
+ehome_smart_qaa_total
+userid:201255
+question:好
+highest question Q：什么是好友、看好股市者？
+highest score 8.325723
+##########################
+Fri Feb 21 01:14:18 2025
+ehome_smart_qaa_total
+userid:201255
+question:你好
+highest question Q：什么是好友、看好股市者？
+highest score 8.325723
+##########################
+covered, ask back
+Fri Feb 21 02:24:42 2025
+ehome_smart_qaa_total
+userid:
+question:问题
+highest question 问题测试
+highest score 13.801807
+##########################
+covered, ask back
+Fri Feb 21 02:32:36 2025
+ehome_smart_qaa_total
+userid:
+question:忘记密码
+highest question Q：忘记密码怎么办？
+highest score 26.366982
+##########################
+covered, ask back
+Fri Feb 21 03:08:31 2025
+ehome_smart_qaa_total
+userid:
+question:忘记密码
+highest question Q：忘记密码怎么办？
+highest score 26.366982
+##########################
+covered, ask back
+Fri Feb 21 03:16:07 2025
+ehome_smart_qaa_total
+userid:
+question:忘记密码
+highest question Q：忘记密码怎么办？
+highest score 26.366982
+##########################
+covered, ask back
+Fri Feb 21 03:19:09 2025
+ehome_smart_qaa_total
+userid:
+question:忘记密码
+highest question Q：忘记密码怎么办？
+highest score 26.366982
+##########################
+covered, ask back
+Fri Feb 21 03:20:45 2025
+ehome_smart_qaa_total
+userid:
+question:忘记密码
+highest question Q：忘记密码怎么办？
+highest score 26.366982
+##########################
+covered, ask back
+Fri Feb 21 03:23:04 2025
+ehome_smart_qaa_total
+userid:
+question:忘记密码
+highest question Q：忘记密码怎么办？
+highest score 26.366982
+##########################
+covered, ask back
+Fri Feb 21 05:52:54 2025
+ehome_smart_qaa_total
+userid:123
+question:条件单业务如何办理
+highest question Q：智能条件单业务办理操作步骤？
+highest score 22.273348
+##########################
+Fri Feb 21 05:54:01 2025
+ehome_smart_qaa_total
+userid:200635
+question:如何用手机请假
+highest question 如何在申万宏源e家APP请假
+highest score 16.337545
+##########################
+covered, ask back
+Fri Feb 21 06:27:43 2025
+ehome_smart_qaa_total
+userid:
+question:忘记密码
+highest question Q：忘记密码怎么办？
+highest score 26.366982
+##########################
+Fri Feb 21 06:30:57 2025
+ehome_smart_qaa_total
+userid:200635
+question:如何用手机请假
+highest question 如何在申万宏源e家APP请假
+highest score 16.337545
+##########################
+covered, ask back
+Fri Feb 21 06:33:34 2025
+ehome_smart_qaa_total
+userid:123
+question:条件单业务如何办理
+highest question Q：智能条件单业务办理操作步骤？
+highest score 22.26452
+##########################
+Fri Feb 21 06:36:16 2025
+ehome_smart_qaa_total
+userid:200635
+question:如何用手机请假
+highest question 如何在申万宏源e家APP请假
+highest score 16.337545
+##########################
+covered, ask back
+Fri Feb 21 06:41:49 2025
+ehome_smart_qaa_total
+userid:
+question:忘记密码
+highest question Q：忘记密码怎么办？
+highest score 26.366982
+##########################
+covered, ask back
+Fri Feb 21 06:43:18 2025
+ehome_smart_qaa_total
+userid:123
+question:条件单业务如何办理
+highest question Q：智能条件单业务办理操作步骤？
+highest score 22.273348
+##########################
+covered, ask back
+Fri Feb 21 06:46:09 2025
+ehome_smart_qaa_total
+userid:
+question:忘记密码
+highest question Q：忘记密码怎么办？
+highest score 26.366982
+##########################
+Fri Feb 21 06:52:29 2025
+ehome_smart_qaa_total
+userid:200635
+question:如何用手机请假
+highest question 如何在申万宏源e家APP请假
+highest score 16.337545
+##########################
+covered, ask back
+Fri Feb 21 06:52:32 2025
+ehome_smart_qaa_total
+userid:123
+question:条件单业务如何办理
+highest question Q：智能条件单业务办理操作步骤？
+highest score 22.273348
+##########################
+Fri Feb 21 06:59:20 2025
+ehome_smart_qaa_total
+userid:123
+question:怎么用手机请假？
+highest question Q：双卡手机无法激活手机软件怎么办？
+highest score 16.421728
+##########################
+Fri Feb 21 07:01:21 2025
+ehome_smart_qaa_total
+userid:123
+question:123124
+highest question None
+highest score None
+##########################
+Fri Feb 21 07:04:18 2025
+ehome_smart_qaa_total
+userid:123
+question:怎么用手机请假
+highest question Q：双卡手机无法激活手机软件怎么办？
+highest score 16.421728
+##########################
+Fri Feb 21 07:05:53 2025
+ehome_smart_qaa_total
+userid:123
+question:怎么用手机请假？
+highest question Q：双卡手机无法激活手机软件怎么办？
+highest score 16.421728
+##########################
+Fri Feb 21 07:11:30 2025
+ehome_smart_qaa_total
+userid:123
+question:怎么用手机请假？
+highest question Q：双卡手机无法激活手机软件怎么办？
+highest score 16.421728
+##########################
+Fri Feb 21 07:13:40 2025
+ehome_smart_qaa_total
+userid:123
+question:aqq
+highest question None
+highest score None
+##########################
+Fri Feb 21 07:18:12 2025
+ehome_smart_qaa_total
+userid:123
+question:怎么用手机请假
+highest question Q：双卡手机无法激活手机软件怎么办？
+highest score 16.421728
+##########################
+Fri Feb 21 07:19:13 2025
+ehome_smart_qaa_total
+userid:123
+question:怎么用手机请假？
+highest question Q：双卡手机无法激活手机软件怎么办？
+highest score 16.421728
+##########################
+Fri Feb 21 07:22:14 2025
+ehome_smart_qaa_total
+userid:123
+question:怎么用手机请假？
+highest question Q：双卡手机无法激活手机软件怎么办？
+highest score 16.421728
+##########################
+Fri Feb 21 07:24:26 2025
+ehome_smart_qaa_total
+userid:123
+question:怎么用手机请假？
+highest question Q：双卡手机无法激活手机软件怎么办？
+highest score 16.421728
+##########################
+Fri Feb 21 07:25:25 2025
+ehome_smart_qaa_total
+userid:123
+question:怎么用手机请假？
+highest question Q：双卡手机无法激活手机软件怎么办？
+highest score 16.427214
+##########################
+Fri Feb 21 07:27:35 2025
+ehome_smart_qaa_total
+userid:123
+question:怎么用手机请假？
+highest question Q：双卡手机无法激活手机软件怎么办？
+highest score 16.421728
+##########################
+covered, ask back
+Fri Feb 21 07:33:56 2025
+ehome_smart_qaa_total
+userid:123
+question:测试
+highest question 测试测试测试
+highest score 16.077501
+##########################
+Fri Feb 21 07:35:37 2025
+ehome_smart_qaa_total
+userid:123
+question:怎么用手机请假？
+highest question Q：双卡手机无法激活手机软件怎么办？
+highest score 16.421728
+##########################
+covered, ask back
+Fri Feb 21 07:36:07 2025
+ehome_smart_qaa_total
+userid:123
+question:请假？
+highest question 如何在申万宏源e家APP请假
+highest score 11.807476
+##########################
+Fri Feb 21 07:36:28 2025
+ehome_smart_qaa_total
+userid:123
+question:年假还有多少天？
+highest question Q：老三板交易记录要保存多少年？
+highest score 14.219892
+##########################
+Fri Feb 21 07:36:58 2025
+ehome_smart_qaa_total
+userid:123
+question:我的年假还有几天时间可以使用？
+highest question Q：智能条件单在有效时间内可以触发几次？
+highest score 19.724922
+##########################
+covered, ask back
+Fri Feb 21 07:37:43 2025
+ehome_smart_qaa_total
+userid:123
+question:年假
+highest question 如何享受年假
+highest score 13.926239
+##########################
+Fri Feb 21 07:38:26 2025
+ehome_smart_qaa_total
+userid:123
+question:描述一下申万宏源公司发展历史。
+highest question 申万宏源e家APP怎么下载安装
+highest score 20.86304
+##########################
+Fri Feb 21 07:39:35 2025
+ehome_smart_qaa_total
+userid:123
+question:证券从业资格证书在哪里登记？
+highest question 证券从业在哪里登记
+highest score 42.543488
+##########################
+covered, ask back
+Fri Feb 21 07:40:29 2025
+ehome_smart_qaa_total
+userid:123
+question:123
+highest question 123
+highest score 15.01565
+##########################
+Fri Feb 21 07:41:05 2025
+ehome_smart_qaa_total
+userid:123
+question:1234
+highest question None
+highest score None
+##########################
