@@ -1,24 +1,11 @@
 import elasticsearch
-# import requests
-
-
-# def embeddingMsg(sentence):
-#     url = 'http://192.168.24.137:9998/v1/embeddings'
-#     myobj = {"input":[sentence],
-#         "model":"bge-m3-local"}
-    
-#     x = requests.post(url, json = myobj)
-#     res = x.json()["data"][0]["embedding"]
-    
-#     return res
+import config
 
 def search1000(searchKey, searchIndex, searchCol):
      es = elasticsearch.Elasticsearch(
-        #  hosts = ['http://172.17.172.149:9200'],
-        #  basic_auth = ('es2_zntj', 'Zzty240603!@#')
-          hosts=['http://192.168.152.47:9292'],
-          basic_auth=('ai', 'Aireccontent@123')
-        )
+          hosts=config.es_host,
+          basic_auth=config.es_auth
+     )
 
 
      query = {
@@ -31,17 +18,14 @@ def search1000(searchKey, searchIndex, searchCol):
     }
      
      results = es.search(index=searchIndex, body=query)
-    #  results = es.search(index="jcs_smart_qaa", body=query)
     
 
      return results
 
 def searchPage(index, pageNumber):
     es = elasticsearch.Elasticsearch(
-        #  hosts = ['http://172.17.172.149:9200'],
-        # #  basic_auth = ('es2_zntj', 'Zzty240603!@#')
-        hosts=['http://192.168.152.47:9292'],
-        basic_auth=('ai', 'Aireccontent@123')
+          hosts=config.es_host,
+          basic_auth=config.es_auth
     )
     index_name = index
     page_size = 10
@@ -69,10 +53,8 @@ def searchPage(index, pageNumber):
 
 def searchKey(idx, key, pageNumber, pageSize):
     es = elasticsearch.Elasticsearch(
-        #  hosts = ['http://172.17.172.149:9200'],
-        # #  basic_auth = ('es2_zntj', 'Zzty240603!@#')
-        hosts=['http://192.168.152.47:9292'],
-        basic_auth=('ai', 'Aireccontent@123')
+          hosts=config.es_host,
+          basic_auth=config.es_auth
     )
         
     keyword = key
@@ -98,10 +80,8 @@ def searchKey(idx, key, pageNumber, pageSize):
 
 def searchPoint(qsid, idx):
     es = elasticsearch.Elasticsearch(
-        #  hosts = ['http://172.17.172.149:9200'],
-        # #  basic_auth = ('es2_zntj', 'Zzty240603!@#')
-        hosts=['http://192.168.152.47:9292'],
-        basic_auth=('ai', 'Aireccontent@123')
+          hosts=config.es_host,
+          basic_auth=config.es_auth
     )
 
     id = qsid
@@ -121,21 +101,13 @@ def searchPoint(qsid, idx):
     res = []
     for hit in response['hits']['hits']:
         res.append(hit['_source'])
-        # print(hit['_source']['answer'])
     return res
 
 def createIndex(i, indexI):
     content = {}
     content["_index"] = indexI
     
-    # content["_index"] = ""jcs_smart_qaa""
     content["_id"] = str(i)
     index = {"index":content}
     return index
 
-# def bulkToEs():
-#     es = elasticsearch.Elasticsearch(
-#         hosts=['http://192.168.152.47:9292'],
-#         basic_auth=('ai', 'Aireccontent@123')
-#         )
-    

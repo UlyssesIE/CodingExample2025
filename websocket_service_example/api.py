@@ -86,10 +86,9 @@ async def ws_chat(websocket:WebSocket):
         data = get_chat_request_data(chat_request)
         data = json.dumps(data)
         if_success=True
-        if chat_request.kbName == None:
-            url = config.langchain_chatchat_ip #+ config.url_dict["bigmodel_chat"]
-        else:
-            url = config.langchain_chatchat_ip #+ config.url_dict["knowbase_chat"]
+       
+        url = config.langchain_chatchat_ip
+
         chunk_num = 0
 
         succcedd_result_head = json.dumps({
@@ -103,7 +102,7 @@ async def ws_chat(websocket:WebSocket):
             "logId": log_id
         })
         ############################################################################
-        api_key = "sk-JyubfGLXR4nbxkL3C801Cc1c61F743749e40Ac1688Af870c"
+        api_key = config.api_key
         headers = {
             "Authorization": f"Bearer {api_key}",  # API key in the Authorization header
             "Content-Type": "application/json"  # Specify the content type
@@ -113,7 +112,7 @@ async def ws_chat(websocket:WebSocket):
         qs = jsondata['query']
         q1000 = ESconn.search1000(qs, 'ehome_smart_qaa_total', "question")
 
-        #排序
+        #select hits from elasticsearch which have more than 25 scores
         higher50 = []
         nselected = []
 
@@ -138,6 +137,7 @@ async def ws_chat(websocket:WebSocket):
         sorted_by_value = dict(sorted(toSort.items(), key=lambda item: item[1], reverse=True)[:50])
         keylist = list(sorted_by_value.keys())
         qaset = str(keylist)
+
         toLLM = scores.formPrompt(qs,qaset)
 
         res = {
