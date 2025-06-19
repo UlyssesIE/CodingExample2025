@@ -2,22 +2,8 @@
 
 This repository contains two Python backend services designed to power intelligent information retrieval for frontend applications. Both services interact with a vector database (Elasticsearch) to find relevant information based on user questions, construct prompts for Large Language Models (LLMs), and stream the LLM's responses back to the frontend. One service utilizes Server-Sent Events (SSE) for streaming, while the other employs WebSockets.
 
-Table of Contents
-Features
-Architecture Overview
-Getting Started
-Prerequisites
-Installation
-Configuration
-Running the Services
-API Endpoints
-SSE Service
-WebSocket Service
-Project Structure
-Technologies Used
-Contributing
-License
-Features
+
+**Features**
 Intelligent Information Retrieval: Leverage a vector database (Elasticsearch) for efficient and relevant information retrieval based on natural language questions.
 LLM Integration: Dynamically generate LLM prompts using retrieved information, enabling context-aware responses.
 Streaming Responses: Provide a real-time, interactive user experience by streaming LLM outputs to frontend applications.
