@@ -4,19 +4,12 @@ This repository contains two Python backend services designed to power intellige
 
 
 **Features**
-Intelligent Information Retrieval: Leverage a vector database (Elasticsearch) for efficient and relevant information retrieval based on natural language questions.
-LLM Integration: Dynamically generate LLM prompts using retrieved information, enabling context-aware responses.
-Streaming Responses: Provide a real-time, interactive user experience by streaming LLM outputs to frontend applications.
-Dual Streaming Mechanisms: Choose between Server-Sent Events (SSE) and WebSockets for your frontend communication needs.
-Architecture Overview
-Both backend services follow a similar architectural pattern:
 
-Frontend Request: A frontend application sends a user question to one of the backend services.
-Vector Database Search (Elasticsearch): The backend service queries Elasticsearch (acting as a vector database) to find documents or information semantically similar to the user's question.
-LLM Prompt Construction: The retrieved information is used to construct a comprehensive prompt for an LLM. This prompt typically includes the user's question and the context from Elasticsearch.
-LLM Interaction: The prompt is sent to an LLM (e.g., OpenAI GPT, Google Gemini, etc. - specify if you're using a particular one).
-Streaming Output: The LLM's response is streamed back to the frontend using either SSE or WebSockets, providing a continuous flow of information as it becomes available.
-<!-- end list -->
+_Vector Database Search (Elasticsearch)_: The backend service queries Elasticsearch (acting as a vector database) to find documents or information semantically similar to the user's question.
+_LLM Prompt Construction_: The retrieved information is used to construct a comprehensive prompt for an LLM. This prompt typically includes the user's question and the context from Elasticsearch.
+_LLM Interaction_: The prompt is sent to an LLM (e.g., OpenAI GPT, Google Gemini, etc. - specify if you're using a particular one).
+_Streaming Output: The LLM's response is streamed back to the frontend using either SSE or WebSockets, providing a continuous flow of information as it becomes available._
+
 
 代码段
 
