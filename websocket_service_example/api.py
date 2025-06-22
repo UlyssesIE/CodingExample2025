@@ -1,7 +1,7 @@
 from fastapi import FastAPI,WebSocket
 import json
 from datetime import datetime
-import threading
+
 import httpx
 import ESconn
 import scores
