@@ -19,6 +19,24 @@ To run these services, you need an available Elasticsearch vector database and L
 
 The original services are designed for deepseek-r1, if you want to try other LLM, you may need to change the structure of post message in api.py.
 
-Please use the following command to install all required packages:
+After clone the repository, please use the following command to install all required packages:
 
 `pip install -r requirements.txt`
+
+**Running the Services**
+
+To run the SSE service：
+
+1.Navigate to the sse_service directory
+`cd sse_service_example`
+
+2.Start the service
+`python sse_service.py`
+
+To run the websocket service：
+
+1.Navigate to the sse_service directory
+`cd websocket_service_example`
+
+2.Start the service
+`python websocket_service.py`
