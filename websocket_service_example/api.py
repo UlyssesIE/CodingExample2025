@@ -110,7 +110,7 @@ async def ws_chat(websocket:WebSocket):
 
         jsondata = json.loads(data)
         qs = jsondata['query']
-        q1000 = ESconn.search1000(qs, 'ehome_smart_qaa_total', "question")
+        q1000 = ESconn.search1000(qs, config.es_index, "question")
 
         #select hits from elasticsearch which have more than 25 scores
         higher50 = []

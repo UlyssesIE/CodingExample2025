@@ -28,15 +28,56 @@ After clone the repository, please use the following command to install all requ
 To run the SSE service：
 
 1.Navigate to the sse_service directory
+
 `cd sse_service_example`
 
 2.Start the service
+
 `python sse_service.py`
 
 To run the websocket service：
 
 1.Navigate to the sse_service directory
+
 `cd websocket_service_example`
 
 2.Start the service
+
 `python websocket_service.py`
+
+**Running the Services**
+
+SSE Request Body Example:
+
+Send a post request to http://0.0.0.0:5759/stream with the following json payload:
+
+`{
+    "userId":"testuser",
+    "orgId":"1",
+    "chatId":"01",
+    "question":"Should I carry umbrella?",
+    "chatTitle":"test1",
+    "updateTime":"2022/06/01",
+    "history":[
+        {
+            "role": "user",
+            "content": "What's the weather?"
+        },
+        {
+            "role": "assist",
+            "content": "It's sunny outside."
+        }]
+}`
+
+Websocket Request Body Example:
+
+Build a websocket connection with ws://localhost:8961/ws_chat.
+
+Send the following json payload:
+
+`{
+    "model": "deepseek-r1-distill",
+    "question": "What's the weather?",
+    "userId": "testuser",
+    "stream": true
+}`
