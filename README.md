@@ -1,4 +1,4 @@
-# CodingExample2025
+# LLM-VectorDB-Streaming-Services
 
 This repository contains two Python backend services designed to power intelligent information retrieval for frontend applications. Both services are projects I completed in real world companies with some edition in configurations. These services interact with a vector database (Elasticsearch) to find relevant information based on user questions, construct prompts for Large Language Models (LLMs), and stream the LLM's responses back to the frontend. One service utilizes Server-Sent Events (SSE) for streaming, while the other employs WebSockets.
 
